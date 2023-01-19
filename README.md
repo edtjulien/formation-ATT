@@ -1,6 +1,6 @@
 # ATT - Bloc 4
 
-**Presentation video:** https://share.vidyard.com/watch/YCnCcdgzqmjSPGhv7SeP3j?
+**Presentation video:** https://share.vidyard.com/watch/YCnCcdgzqmjSPGhv7SeP3j
 
 
 Notebooks for deep learning model training with Tensorflow. Training purpose is to predict if a text is a spam or not.
